@@ -1,6 +1,6 @@
 # Moziko
 
-A fantastic flutter music player for Android
+## A fantastic flutter music player for Android
 
 ## Getting Started
 
